@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1080">
-<rect width="1200" height="1080" fill="#d8e0dc"/>
-<circle cx="1030" cy="150" r="220" fill="#26332e" opacity=".08"/>
-<circle cx="150" cy="950" r="330" fill="#26332e" opacity=".07"/>
-<path d="M0 780 C300 650 420 950 700 800 S1050 650 1200 760 V1080 H0Z" fill="#26332e" opacity=".10"/>
-<text x="80" y="130" font-family="Arial,sans-serif" font-size="26" letter-spacing="7" fill="#26332e" opacity=".65">TRANSCRIÇÃO</text>
-<text x="80" y="760" font-family="Georgia,serif" font-size="92" fill="#26332e">OCEANO</text>
-<text x="80" y="830" font-family="Arial,sans-serif" font-size="30" letter-spacing="4" fill="#26332e" opacity=".75">DJAVAN</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1080"><rect width="1200" height="1080" fill="#d8e0dc"/><circle cx="1030" cy="150" r="220" fill="#26332e" opacity=".08"/><path d="M0 780 C300 650 420 950 700 800 S1050 650 1200 760 V1080 H0Z" fill="#26332e" opacity=".10"/><text x="80" y="130" font-family="Arial" font-size="26" letter-spacing="7" fill="#26332e">TRANSCRIÇÃO</text><text x="80" y="760" font-family="Georgia" font-size="92" fill="#26332e">OCEANO</text><text x="80" y="830" font-family="Arial" font-size="30" letter-spacing="4" fill="#26332e">DJAVAN</text></svg>
