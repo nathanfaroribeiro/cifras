@@ -1,23 +1,23 @@
 [
   {
     "id": "001",
-    "slug": "oceano-djavan",
-    "title": "Oceano",
+    "slug": "djavan-live-espanha",
+    "title": "Show Completo - Live Espanha",
     "artist": "Djavan",
     "category": "MPB",
-    "price_brl": 19.9,
-    "price_usd": 4.99,
-    "format": "PDF + Vídeo",
-    "description": "Transcrição detalhada para violão, baseada na performance de referência.",
+    "price_brl": 29.90,
+    "price_usd": 6.00,
+    "format": "Tablatura + Vídeo Completo",
+    "description": "Tablatura e Vídeo Completo para seis perfomances de Djavan, ao vivo na Espanha: Capim, Doidice, Dupla Traição, Irmã de Neon, Maça e Para Raio. ",
     "details": [
       "PDF da transcrição",
       "Vídeo demonstrativo",
       "Afinação padrão"
     ],
     "cover": "assets/cover-oceano.svg",
-    "mercadopago": "COLE_AQUI_O_LINK_DO_MERCADO_PAGO",
+    "mercadopago": "https://mpago.la/1jG8FfC",
     "paypal": "COLE_AQUI_O_LINK_DO_PAYPAL",
-    "drive": "COLE_AQUI_O_LINK_DO_GOOGLE_DRIVE"
+    "drive": "https://drive.google.com/drive/folders/184HC7WvP0M5pzqurdoG_mPsE3Uwb2ak_?usp=sharing"
   },
   {
     "id": "002",
