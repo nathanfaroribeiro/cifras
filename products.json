@@ -1,0 +1,62 @@
+[
+  {
+    "id": "001",
+    "slug": "oceano-djavan",
+    "title": "Oceano",
+    "artist": "Djavan",
+    "category": "MPB",
+    "price_brl": 19.9,
+    "price_usd": 4.99,
+    "format": "PDF + Vídeo",
+    "description": "Transcrição detalhada para violão, baseada na performance de referência.",
+    "details": [
+      "PDF da transcrição",
+      "Vídeo demonstrativo",
+      "Afinação padrão"
+    ],
+    "cover": "assets/cover-oceano.svg",
+    "mercadopago": "COLE_AQUI_O_LINK_DO_MERCADO_PAGO",
+    "paypal": "COLE_AQUI_O_LINK_DO_PAYPAL",
+    "drive": "COLE_AQUI_O_LINK_DO_GOOGLE_DRIVE"
+  },
+  {
+    "id": "002",
+    "slug": "samurai-djavan",
+    "title": "Samurai",
+    "artist": "Djavan",
+    "category": "MPB",
+    "price_brl": 19.9,
+    "price_usd": 4.99,
+    "format": "PDF + Vídeo",
+    "description": "Transcrição detalhada com atenção às nuances da execução.",
+    "details": [
+      "PDF da transcrição",
+      "Vídeo demonstrativo",
+      "Afinação padrão"
+    ],
+    "cover": "assets/cover-samurai.svg",
+    "mercadopago": "COLE_AQUI_O_LINK_DO_MERCADO_PAGO",
+    "paypal": "COLE_AQUI_O_LINK_DO_PAYPAL",
+    "drive": "COLE_AQUI_O_LINK_DO_GOOGLE_DRIVE"
+  },
+  {
+    "id": "003",
+    "slug": "joao-e-maria-chico-buarque",
+    "title": "João e Maria",
+    "artist": "Chico Buarque",
+    "category": "MPB",
+    "price_brl": 24.9,
+    "price_usd": 5.99,
+    "format": "PDF + Vídeo",
+    "description": "Transcrição completa da performance, incluindo detalhes de acompanhamento.",
+    "details": [
+      "PDF da transcrição",
+      "Vídeo demonstrativo",
+      "Indicações de dinâmica"
+    ],
+    "cover": "assets/cover-joao-e-maria.svg",
+    "mercadopago": "COLE_AQUI_O_LINK_DO_MERCADO_PAGO",
+    "paypal": "COLE_AQUI_O_LINK_DO_PAYPAL",
+    "drive": "COLE_AQUI_O_LINK_DO_GOOGLE_DRIVE"
+  }
+]
